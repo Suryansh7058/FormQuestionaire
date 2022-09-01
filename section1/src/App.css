@@ -1,0 +1,13 @@
+.form-container{
+    background-color: white;
+    padding: 30px;
+    width: 25rem;
+    border-radius: 20px;
+    margin-bottom: 3rem;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
